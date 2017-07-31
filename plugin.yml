@@ -1,0 +1,7 @@
+name: TeleportBack
+main: net.libercraft.teleportback.TeleportBack
+version: 1.0
+commands:
+  back:
+    description: Go back to your previous location
+    usage: /back
